@@ -10,5 +10,5 @@ Repo containing stript and maps for [30 Day MapChallenge 2024](https://30daymapc
 
 ## Lines
 
-![Roads of Medellín, Colombia](Lines/Roads.png "Roads of Medellín, Colombia")
+![Road network of Medellín, Colombia](Lines/Roads.png "Road network of Medellín, Colombia")
 
